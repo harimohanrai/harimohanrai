@@ -6,7 +6,7 @@ Assistant Professor, Department of Computer Science
 School of Computing and Artificial Intelligence (SCAI)  
 Nazarbayev University, Astana, Kazakhstan
 
-[Academic website](https://harimohanrai.github.io/) · [Google Scholar](https://goo.gl/P83iic) · [ORCID](https://orcid.org/0000-0003-2557-3510) · [Publons](https://publons.com/researcher/1464403/hari-mohan-rai/)
+[![Website](https://img.shields.io/badge/Academic-Website-2169aa)](https://harimohanrai.github.io/) [![Google Scholar](https://img.shields.io/badge/Google-Scholar-2169aa)](https://goo.gl/P83iic) [![ORCID](https://img.shields.io/badge/ORCID-Profile-387526)](https://orcid.org/0000-0003-2557-3510) [![Publons](https://img.shields.io/badge/Publons-Profile-755099)](https://publons.com/researcher/1464403/hari-mohan-rai/)
 
 **Email:** hari.rai@nu.edu.kz · harimohanrai@gmail.com  
 **Phone:** +7-7785093277 · +91-8700004620  
@@ -15,12 +15,12 @@ Nazarbayev University, Astana, Kazakhstan
 [Career objective](#objective) | [Education](#education) | [Professional experience](#experience) | [Research interests](#interests) | [Teaching at Nazarbayev University](#teaching) | [Skills and languages](#skills) | [Research papers and publications](#publications) | [Books](#books) | [Book chapters](#chapters) | [Conference publications](#conferences) | [Published patents](#patents) | [Activities and honors](#honors) | [Workshops and faculty development](#workshops) | [Editorial board and editorial service](#editorial) | [Reviewer service](#reviewing) | [Professional memberships](#memberships) | [Certifications and professional development](#certifications) | [Declaration](#declaration)
 
 <a id="objective"></a>
-## Career objective
+## 🎯 Career objective
 
 To pursue a challenging career in growth oriented progressive organization, where I can apply my knowledge, acquire new skills and work closely with a team of highly experienced professionals with dedication and hard work.
 
 <a id="education"></a>
-## Education
+## 📚 Education
 
 Ph.D. [Indian Institute of Technology (ISM), Dhanbad, India]
 
@@ -43,7 +43,7 @@ Academic year 2005-2009
 Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, India
 
 <a id="experience"></a>
-## Professional experience
+## 🎓 Professional experience
 
 | Position | Department | Institution | Dates |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 | Lecturer | Electronics & Communication  | Vindhya Institute of Technology and Science, Jabalpur, India | (Aug 2009 – Aug 2010) |
 
 <a id="interests"></a>
-## Research interests
+## 🔬 Research interests
 
 - Digital Logic Design
 
@@ -73,7 +73,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Security for Mobile Technology
 
 <a id="teaching"></a>
-## Teaching at Nazarbayev University
+## 🧑‍🏫 Teaching at Nazarbayev University
 
 ### Undergraduate Courses
 
@@ -94,7 +94,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - CSCI 700-0 – Thesis Research, 2026 — 0 ECTS
 
 <a id="skills"></a>
-## Skills and languages
+## 💻 Skills and languages
 
 - Fluent in English, Hindi
 
@@ -109,7 +109,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Wireshark, SNORT, Suricata, Zeek
 
 <a id="publications"></a>
-## Research papers and publications
+## 📄 Research papers and publications
 
 1. Taigonyrov, A., Rai, H. M., Jamwal, P., Pal, A., & Razaque, A. (2026). A Systematic Review of AI for Pulmonary Hypertension Detection: Performance, Gaps, and the Critical Need for Federated Learning. Archives of Computational Methods in Engineering, 1-42, https://doi.org/10.1007/s11831-026-10657-w.
 
@@ -244,7 +244,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 66. Ajit Kumar, Chandra Shekhar Singh, Hari Mohan Rai, “HRV Analysis Implementation by Simulink”,The International Journal Of Science &Technoledge, Vol 1 Issue 6 December, 2013.
 
 <a id="books"></a>
-## Books
+## 📘 Books
 
 1. Rai, Hari Mohan, and Abdul Razaque, editors. Optimization Tools and Techniques for Enhanced Computational Efficiency. IGI Global, 2025. https://doi.org/10.4018/979-8-3693-6885-5
 
@@ -257,7 +257,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 5. T. Arun, S. Harish, A. Anand, H. M. Rai, and R. Senthil Kumar, Mechatronics. 2025. [Online]. Available: https://www.aasans.com/aasans-international-publication-detail.php?intid=38
 
 <a id="chapters"></a>
-## Book chapters
+## 📖 Book chapters
 
 1. Rai, H.M., Pal, A., Lee, SR., Khudaykul, B.A. (2025). SkipCNN-Based ECG Transformer Spike Model for Accurate Cardiac Arrhythmia Detection. In: Mittal, M., Bhushan, B. (eds) Generative AI in Healthcare: Concepts, Methodologies, Tools, and Applications. Studies in Computational Intelligence, vol 1234. Springer, Singapore. https://doi.org/10.1007/978-981-95-2129-6_4
 
@@ -282,7 +282,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 11. Hari Mohan Rai., et al., Automatic Segmentation and Classification of Brain Tumor from MR Images Using DWT-RBFNN, Advanced Soft Computing Techniques in Data Science, IoT and Cloud Computing. pp. 215–243 (2021). (Springer) https://doi.org/10.1007/978-3-030-75657-4_10.
 
 <a id="conferences"></a>
-## Conference publications
+## 🎤 Conference publications
 
 1. Kurmambayev, Sanzhar, Saule Amanzholova, and Hari Mohan Rai. "A Comparative Study of Supervised Machine Learning Algorithms for Ransomware Detection." 2026 IEEE 6th International Conference on Smart Information Systems and Technologies (SIST). IEEE, 2026, 10.1109/SIST61674.2026.11596349.
 
@@ -341,7 +341,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 28. Hari Mohan Rai , Anurag Trivedi, “ECG Arrhythmia Classification using Daubechies Wavelet and Radial Basis Function Neural Network”, IEEE 3rd Nirma University International Conference on Engineering, 6 - 8 December, 2012, Ahmadabad, ISBN: 978-1-4673-1720-7(IEEE Xplore). DOI: 10.1109/NUICONE.2012.6493281.
 
 <a id="patents"></a>
-## Published patents
+## 💡 Published patents
 
 1. Design Patent: Cloud Based Healthcare Monitoring System Using IOT, (APPLICATION NUMBER: 444344-001), 2025, India. https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=NDQ0MzQ0LTAwMQ==&CNo=MTk1OTc0
 
@@ -360,7 +360,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 8. SMART INTELLIGENT DRONE-BASED AIR AMBULANCE (SIDAA) (APPLICATION NUMBER:202211029299), 2022, India.
 
 <a id="honors"></a>
-## Activities and honors
+## 🏆 Activities and honors
 
 - Expert Lecture, “Digital Twins,” Faculty Development Programme on Industrial Internet of Things (IIoT) and Industry 5.0, E&ICT Academy, NIT Patna, supported by the Ministry of Electronics and Information Technology (MeitY), Government of India, 3 June 2026.
 
@@ -425,7 +425,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Editorial committee member for National Conference on Technological Development in Electronics Engineering "Macro to Nano World" (NCTDEE-15) sponsored by SERB, Department of Science &Technology, Govt. India, New Delhi, Mar 15.
 
 <a id="workshops"></a>
-## Workshops and faculty development
+## 🛠️ Workshops and faculty development
 
 - Participated and successfully completed the 5-day online FDP on the theme “Inculcating Universal Human Values in Technical Education” organized by All India Council for Technical Education(AICTE) from 10 May, 2021 to 14 May, 2021.
 
@@ -490,7 +490,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Participated of the IUCEE Virtual Academy Mini Course “Research Methodology” offered from 25th Jan-31st Mar 13 by Prof Prasant Mohapatra of UC Davis University, USA.
 
 <a id="editorial"></a>
-## Editorial board and editorial service
+## ✍️ Editorial board and editorial service
 
 - BMC Bioinformatics. BioMed Central. Springer Nature. https://bmcbioinformatics.biomedcentral.com/
 
@@ -507,7 +507,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - International Journal of Current Research. https://ijcres.in/index.php/ijcr/index
 
 <a id="reviewing"></a>
-## Reviewer service
+## 🔎 Reviewer service
 
 - IEEE Journal of Biomedical and Health Informatics.
 
@@ -532,7 +532,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Computer Methods in Biomechanics and Biomedical Engineering (Taylor & Francis)
 
 <a id="memberships"></a>
-## Professional memberships
+## 🤝 Professional memberships
 
 - IEEE Membership
 
@@ -545,7 +545,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Internet Society as a Global Member (ISOC)
 
 <a id="certifications"></a>
-## Certifications and professional development
+## 🏅 Certifications and professional development
 
 ### AI, Machine Learning & Computational Research
 
@@ -584,7 +584,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 - Introduction to Cybersecurity — Cisco Networking Academy, 2024.
 
 <a id="declaration"></a>
-## Declaration
+## 📝 Declaration
 
 I pledge and pronounce that all the above information is true to best of my best knowledge.
 
