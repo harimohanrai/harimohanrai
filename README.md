@@ -111,8 +111,10 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 <a id="publications"></a>
 ## 📄 Research papers and publications
 
-1. **[A Systematic Review of AI for Pulmonary Hypertension Detection: Performance, Gaps, and the Critical Need for Federated Learning](https://doi.org/10.1007/s11831-026-10657-w)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1007/s11831-026-10657-w](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11831-026-10657-w&color=2169aa&style=flat)](https://doi.org/10.1007/s11831-026-10657-w)
+Scopus CiteScore 2025 — highest percentile across subject categories. ⭐⭐⭐ Top 10% (90th–99th percentile) · ⭐⭐ Other Q1 (75th–89th) · ⭐ Q2 (50th–74th). Stars describe the journal’s 2025 ranking, not its ranking in the publication year. Q3/Q4 and entries without a verified 2025 metric have no stars. Original CV citations are preserved below.
+
+1. ⭐⭐⭐ **[A Systematic Review of AI for Pulmonary Hypertension Detection: Performance, Gaps, and the Critical Need for Federated Learning](https://doi.org/10.1007/s11831-026-10657-w)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1007/s11831-026-10657-w](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11831-026-10657-w&color=2169aa&style=flat)](https://doi.org/10.1007/s11831-026-10657-w) [![Scopus 2025: 99th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=99th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/18093)
 
    <details>
    <summary>Full citation</summary>
@@ -121,8 +123,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-2. **[Secure and Lightweight Authentication for IoT-Based Smart Home Surveillance](https://doi.org/10.1109/JIOT.2026.3685402)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1109/JIOT.2026.3685402](https://img.shields.io/static/v1?label=DOI&message=10.1109%2FJIOT.2026.3685402&color=2169aa&style=flat)](https://doi.org/10.1109/JIOT.2026.3685402)
+2. ⭐⭐⭐ **[Secure and Lightweight Authentication for IoT-Based Smart Home Surveillance](https://doi.org/10.1109/JIOT.2026.3685402)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1109/JIOT.2026.3685402](https://img.shields.io/static/v1?label=DOI&message=10.1109%2FJIOT.2026.3685402&color=2169aa&style=flat)](https://doi.org/10.1109/JIOT.2026.3685402) [![Scopus 2025: 96th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=96th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100338350)
 
    <details>
    <summary>Full citation</summary>
@@ -131,8 +133,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-3. **[AI-driven botnet detection in IoT networks: A comprehensive research review](https://doi.org/10.1016/j.cosrev.2026.100941)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1016/j.cosrev.2026.100941](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.cosrev.2026.100941&color=2169aa&style=flat)](https://doi.org/10.1016/j.cosrev.2026.100941)
+3. ⭐⭐⭐ **[AI-driven botnet detection in IoT networks: A comprehensive research review](https://doi.org/10.1016/j.cosrev.2026.100941)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1016/j.cosrev.2026.100941](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.cosrev.2026.100941&color=2169aa&style=flat)](https://doi.org/10.1016/j.cosrev.2026.100941) [![Scopus 2025: 98th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=98th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/8000153138)
 
    <details>
    <summary>Full citation</summary>
@@ -141,8 +143,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-4. **[Enhanced Measure of Nonlinearity Using Deep Learning and Adaptive Fusion for Fused Bearings-Only Tracking](https://doi.org/10.1155/acis/1936312)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1155/acis/1936312](https://img.shields.io/static/v1?label=DOI&message=10.1155%2Facis%2F1936312&color=2169aa&style=flat)](https://doi.org/10.1155/acis/1936312)
+4. ⭐⭐⭐ **[Enhanced Measure of Nonlinearity Using Deep Learning and Adaptive Fusion for Fused Bearings-Only Tracking](https://doi.org/10.1155/acis/1936312)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1155/acis/1936312](https://img.shields.io/static/v1?label=DOI&message=10.1155%2Facis%2F1936312&color=2169aa&style=flat)](https://doi.org/10.1155/acis/1936312) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100821307)
 
    <details>
    <summary>Full citation</summary>
@@ -151,8 +153,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-5. **[A blockchain-enabled IoT framework for smart electro-medical waste management](https://doi.org/10.1038/s41598-026-45930-2)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-45930-2](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-45930-2&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-45930-2)
+5. ⭐⭐ **[A blockchain-enabled IoT framework for smart electro-medical waste management](https://doi.org/10.1038/s41598-026-45930-2)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-45930-2](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-45930-2&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-45930-2) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100200805)
 
    <details>
    <summary>Full citation</summary>
@@ -161,8 +163,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-6. **[An Interpretable Stacked Deep Learning Model for Diagnosis of Brain Tumor with Transparent Learning Dynamics](https://doi.org/10.3390/make8070189)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.3390/make8070189](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmake8070189&color=2169aa&style=flat)](https://doi.org/10.3390/make8070189)
+6. ⭐⭐⭐ **[An Interpretable Stacked Deep Learning Model for Diagnosis of Brain Tumor with Transparent Learning Dynamics](https://doi.org/10.3390/make8070189)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.3390/make8070189](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmake8070189&color=2169aa&style=flat)](https://doi.org/10.3390/make8070189) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21101109601)
 
    <details>
    <summary>Full citation</summary>
@@ -171,8 +173,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-7. **[Digital Twin Monitoring System for Chronic Disease Patients: A Simulation-Based Proof-of-Concept](https://doi.org/10.34133/csbj.0103)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.34133/csbj.0103](https://img.shields.io/static/v1?label=DOI&message=10.34133%2Fcsbj.0103&color=2169aa&style=flat)](https://doi.org/10.34133/csbj.0103)
+7. ⭐⭐ **[Digital Twin Monitoring System for Chronic Disease Patients: A Simulation-Based Proof-of-Concept](https://doi.org/10.34133/csbj.0103)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.34133/csbj.0103](https://img.shields.io/static/v1?label=DOI&message=10.34133%2Fcsbj.0103&color=2169aa&style=flat)](https://doi.org/10.34133/csbj.0103) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100318415)
 
    <details>
    <summary>Full citation</summary>
@@ -181,8 +183,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-8. **[Advanced security in fog environments using encryption and adaptive user activity tracking](https://doi.org/10.1038/s41598-026-51379-0)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-51379-0](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-51379-0&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-51379-0)
+8. ⭐⭐ **[Advanced security in fog environments using encryption and adaptive user activity tracking](https://doi.org/10.1038/s41598-026-51379-0)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-51379-0](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-51379-0&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-51379-0) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100200805)
 
    <details>
    <summary>Full citation</summary>
@@ -191,8 +193,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-9. **[HS-RankFormer for efficient and robust RGB-to-Hyperspectral image reconstruction across domains](https://doi.org/10.1038/s41598-026-47466-x)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-47466-x](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-47466-x&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-47466-x)
+9. ⭐⭐ **[HS-RankFormer for efficient and robust RGB-to-Hyperspectral image reconstruction across domains](https://doi.org/10.1038/s41598-026-47466-x)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-47466-x](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-47466-x&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-47466-x) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100200805)
 
    <details>
    <summary>Full citation</summary>
@@ -201,8 +203,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-10. **[Blockchain-based two-level trustable reputation framework for e-commerce platform using smart contracts](https://doi.org/10.1038/s41598-026-44032-3)**  
-   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-44032-3](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-44032-3&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-44032-3)
+10. ⭐⭐ **[Blockchain-based two-level trustable reputation framework for e-commerce platform using smart contracts](https://doi.org/10.1038/s41598-026-44032-3)**  
+   ![Year: 2026](https://img.shields.io/static/v1?label=Year&message=2026&color=755099&style=flat) [![DOI: 10.1038/s41598-026-44032-3](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-026-44032-3&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-026-44032-3) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100200805)
 
    <details>
    <summary>Full citation</summary>
@@ -211,8 +213,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-11. **[Rank optimization technique of physical layer secrecy capacity in MIMO wiretap channel](https://doi.org/10.1007/s11276-025-04061-8)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s11276-025-04061-8](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11276-025-04061-8&color=2169aa&style=flat)](https://doi.org/10.1007/s11276-025-04061-8)
+11. ⭐⭐ **[Rank optimization technique of physical layer secrecy capacity in MIMO wiretap channel](https://doi.org/10.1007/s11276-025-04061-8)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s11276-025-04061-8](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11276-025-04061-8&color=2169aa&style=flat)](https://doi.org/10.1007/s11276-025-04061-8) [![Scopus 2025: 77th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=77th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/17569)
 
    <details>
    <summary>Full citation</summary>
@@ -221,8 +223,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-12. **[An Efficient CSP-PDW Approach for ECG Signal Compression and Reconstruction for IoT-Based Healthcare](https://doi.org/10.32604/cmc.2025.070391)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.32604/cmc.2025.070391](https://img.shields.io/static/v1?label=DOI&message=10.32604%2Fcmc.2025.070391&color=2169aa&style=flat)](https://doi.org/10.32604/cmc.2025.070391)
+12. ⭐⭐ **[An Efficient CSP-PDW Approach for ECG Signal Compression and Reconstruction for IoT-Based Healthcare](https://doi.org/10.32604/cmc.2025.070391)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.32604/cmc.2025.070391](https://img.shields.io/static/v1?label=DOI&message=10.32604%2Fcmc.2025.070391&color=2169aa&style=flat)](https://doi.org/10.32604/cmc.2025.070391) [![Scopus 2025: 88th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=88th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/24364)
 
    <details>
    <summary>Full citation</summary>
@@ -231,8 +233,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-13. **[A review of artificial intelligence in lung cancer detection and oncology](https://doi.org/10.1007/s12553-025-01032-z)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s12553-025-01032-z](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs12553-025-01032-z&color=2169aa&style=flat)](https://doi.org/10.1007/s12553-025-01032-z)
+13. ⭐⭐ **[A review of artificial intelligence in lung cancer detection and oncology](https://doi.org/10.1007/s12553-025-01032-z)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s12553-025-01032-z](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs12553-025-01032-z&color=2169aa&style=flat)](https://doi.org/10.1007/s12553-025-01032-z) [![Scopus 2025: 75th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=75th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/19700182124)
 
    <details>
    <summary>Full citation</summary>
@@ -241,8 +243,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-14. **[HAttFFNN: Hybridized attention mechanism-based feedforward neural network deep learning model for the plastic material classification of three stage materials on spectroscopic data](https://doi.org/10.1371/journal.pone.0336927)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1371/journal.pone.0336927](https://img.shields.io/static/v1?label=DOI&message=10.1371%2Fjournal.pone.0336927&color=2169aa&style=flat)](https://doi.org/10.1371/journal.pone.0336927)
+14. ⭐⭐ **[HAttFFNN: Hybridized attention mechanism-based feedforward neural network deep learning model for the plastic material classification of three stage materials on spectroscopic data](https://doi.org/10.1371/journal.pone.0336927)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1371/journal.pone.0336927](https://img.shields.io/static/v1?label=DOI&message=10.1371%2Fjournal.pone.0336927&color=2169aa&style=flat)](https://doi.org/10.1371/journal.pone.0336927) [![Scopus 2025: 83rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=83rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/10600153309)
 
    <details>
    <summary>Full citation</summary>
@@ -251,8 +253,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-15. **[Enhanced Lesion Localization and Classification in Ocular Tumor Detection Using Grad-CAM and Transfer Learning](https://doi.org/10.1109/ACCESS.2025.3610183)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1109/ACCESS.2025.3610183](https://img.shields.io/static/v1?label=DOI&message=10.1109%2FACCESS.2025.3610183&color=2169aa&style=flat)](https://doi.org/10.1109/ACCESS.2025.3610183)
+15. ⭐⭐⭐ **[Enhanced Lesion Localization and Classification in Ocular Tumor Detection Using Grad-CAM and Transfer Learning](https://doi.org/10.1109/ACCESS.2025.3610183)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1109/ACCESS.2025.3610183](https://img.shields.io/static/v1?label=DOI&message=10.1109%2FACCESS.2025.3610183&color=2169aa&style=flat)](https://doi.org/10.1109/ACCESS.2025.3610183) [![Scopus 2025: 91st percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=91st%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100374601)
 
    <details>
    <summary>Full citation</summary>
@@ -261,8 +263,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-16. **[ViT-DCNN: Vision Transformer with Deformable CNN Model for Lung and Colon Cancer Detection](https://doi.org/10.3390/cancers17183005)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.3390/cancers17183005](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fcancers17183005&color=2169aa&style=flat)](https://doi.org/10.3390/cancers17183005)
+16. ⭐⭐ **[ViT-DCNN: Vision Transformer with Deformable CNN Model for Lung and Colon Cancer Detection](https://doi.org/10.3390/cancers17183005)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.3390/cancers17183005](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fcancers17183005&color=2169aa&style=flat)](https://doi.org/10.3390/cancers17183005) [![Scopus 2025: 84th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=84th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/19700188419)
 
    <details>
    <summary>Full citation</summary>
@@ -271,8 +273,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-17. **[Vehicle tracking and classification for intelligent transportation systems using YOLOv5 and modified deep SORT with HRNN](https://doi.org/10.1007/s11760-025-04379-y)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s11760-025-04379-y](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11760-025-04379-y&color=2169aa&style=flat)](https://doi.org/10.1007/s11760-025-04379-y)
+17. ⭐ **[Vehicle tracking and classification for intelligent transportation systems using YOLOv5 and modified deep SORT with HRNN](https://doi.org/10.1007/s11760-025-04379-y)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s11760-025-04379-y](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11760-025-04379-y&color=2169aa&style=flat)](https://doi.org/10.1007/s11760-025-04379-y) [![Scopus 2025: 62nd percentile | Q2](https://img.shields.io/static/v1?label=Scopus%202025&message=62nd%20percentile%20%7C%20Q2&color=967019&style=flat)](https://www.scopus.com/sourceid/6200180165)
 
    <details>
    <summary>Full citation</summary>
@@ -281,8 +283,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-18. **[Deep Learning for Leukemia Classification: Performance Analysis and Challenges Across Multiple Architectures](https://doi.org/10.3390/fractalfract9060337)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.3390/fractalfract9060337](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Ffractalfract9060337&color=2169aa&style=flat)](https://doi.org/10.3390/fractalfract9060337)
+18. ⭐⭐⭐ **[Deep Learning for Leukemia Classification: Performance Analysis and Challenges Across Multiple Architectures](https://doi.org/10.3390/fractalfract9060337)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.3390/fractalfract9060337](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Ffractalfract9060337&color=2169aa&style=flat)](https://doi.org/10.3390/fractalfract9060337) [![Scopus 2025: 97th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=97th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21101020132)
 
    <details>
    <summary>Full citation</summary>
@@ -291,8 +293,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-19. **[SwinConvNeXt: a fused deep learning architecture for Real-time garbage image classification](https://doi.org/10.1038/s41598-025-91302-7)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1038/s41598-025-91302-7](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-025-91302-7&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-025-91302-7)
+19. ⭐⭐ **[SwinConvNeXt: a fused deep learning architecture for Real-time garbage image classification](https://doi.org/10.1038/s41598-025-91302-7)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1038/s41598-025-91302-7](https://img.shields.io/static/v1?label=DOI&message=10.1038%2Fs41598-025-91302-7&color=2169aa&style=flat)](https://doi.org/10.1038/s41598-025-91302-7) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100200805)
 
    <details>
    <summary>Full citation</summary>
@@ -301,8 +303,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-20. **[LightweightUNet: Multimodal Deep Learning with GAN-Augmented Imaging Data for Efficient Breast Cancer Detection](https://doi.org/10.3390/bioengineering12010073)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.3390/bioengineering12010073](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fbioengineering12010073&color=2169aa&style=flat)](https://doi.org/10.3390/bioengineering12010073)
+20. ⭐ **[LightweightUNet: Multimodal Deep Learning with GAN-Augmented Imaging Data for Efficient Breast Cancer Detection](https://doi.org/10.3390/bioengineering12010073)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.3390/bioengineering12010073](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fbioengineering12010073&color=2169aa&style=flat)](https://doi.org/10.3390/bioengineering12010073) [![Scopus 2025: 64th percentile | Q2](https://img.shields.io/static/v1?label=Scopus%202025&message=64th%20percentile%20%7C%20Q2&color=967019&style=flat)](https://www.scopus.com/sourceid/21100886380)
 
    <details>
    <summary>Full citation</summary>
@@ -311,8 +313,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-21. **[Transformative Advances in AI for Precise Cancer Detection: A Comprehensive Review of Non-Invasive Techniques](https://doi.org/10.1007/s11831-024-10219-y)**  
-   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s11831-024-10219-y](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11831-024-10219-y&color=2169aa&style=flat)](https://doi.org/10.1007/s11831-024-10219-y)
+21. ⭐⭐⭐ **[Transformative Advances in AI for Precise Cancer Detection: A Comprehensive Review of Non-Invasive Techniques](https://doi.org/10.1007/s11831-024-10219-y)**  
+   ![Year: 2025](https://img.shields.io/static/v1?label=Year&message=2025&color=755099&style=flat) [![DOI: 10.1007/s11831-024-10219-y](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11831-024-10219-y&color=2169aa&style=flat)](https://doi.org/10.1007/s11831-024-10219-y) [![Scopus 2025: 99th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=99th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/18093)
 
    <details>
    <summary>Full citation</summary>
@@ -321,8 +323,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-22. **[The Improved Network Intrusion Detection Techniques Using the Feature Engineering Approach with Boosting Classifiers](https://doi.org/10.3390/math12243909)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/math12243909](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath12243909&color=2169aa&style=flat)](https://doi.org/10.3390/math12243909)
+22. ⭐⭐⭐ **[The Improved Network Intrusion Detection Techniques Using the Feature Engineering Approach with Boosting Classifiers](https://doi.org/10.3390/math12243909)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/math12243909](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath12243909&color=2169aa&style=flat)](https://doi.org/10.3390/math12243909) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100830702)
 
    <details>
    <summary>Full citation</summary>
@@ -331,8 +333,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-23. **[Advanced Segmentation of Gastrointestinal (GI) Cancer Disease Using a Novel U-MaskNet Model](https://doi.org/10.3390/life14111488)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/life14111488](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Flife14111488&color=2169aa&style=flat)](https://doi.org/10.3390/life14111488)
+23. ⭐⭐⭐ **[Advanced Segmentation of Gastrointestinal (GI) Cancer Disease Using a Novel U-MaskNet Model](https://doi.org/10.3390/life14111488)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/life14111488](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Flife14111488&color=2169aa&style=flat)](https://doi.org/10.3390/life14111488) [![Scopus 2025: 99th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=99th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/27202)
 
    <details>
    <summary>Full citation</summary>
@@ -342,7 +344,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
    </details>
 
 24. **[Transformative impacts of AI and the IoT on healthcare delivery](https://doi.org/10.30765/er.2523)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.30765/er.2523](https://img.shields.io/static/v1?label=DOI&message=10.30765%2Fer.2523&color=2169aa&style=flat)](https://doi.org/10.30765/er.2523)
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.30765/er.2523](https://img.shields.io/static/v1?label=DOI&message=10.30765%2Fer.2523&color=2169aa&style=flat)](https://doi.org/10.30765/er.2523) [![Scopus 2025: 27th percentile | Q3](https://img.shields.io/static/v1?label=Scopus%202025&message=27th%20percentile%20%7C%20Q3&color=967019&style=flat)](https://www.scopus.com/sourceid/19900192542)
 
    <details>
    <summary>Full citation</summary>
@@ -351,8 +353,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-25. **[Advanced Noise-Resistant Electrocardiography Classification Using Hybrid Wavelet-Median Denoising and a Convolutional Neural Network](https://doi.org/10.3390/s24217033)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/s24217033](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fs24217033&color=2169aa&style=flat)](https://doi.org/10.3390/s24217033)
+25. ⭐⭐⭐ **[Advanced Noise-Resistant Electrocardiography Classification Using Hybrid Wavelet-Median Denoising and a Convolutional Neural Network](https://doi.org/10.3390/s24217033)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/s24217033](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fs24217033&color=2169aa&style=flat)](https://doi.org/10.3390/s24217033) [![Scopus 2025: 91st percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=91st%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/130124)
 
    <details>
    <summary>Full citation</summary>
@@ -361,8 +363,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-26. **[Radar-Based Target Tracking Using Deep Learning Approaches with Unscented Kalman Filter](https://doi.org/10.3390/app14188332)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/app14188332](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fapp14188332&color=2169aa&style=flat)](https://doi.org/10.3390/app14188332)
+26. ⭐⭐ **[Radar-Based Target Tracking Using Deep Learning Approaches with Unscented Kalman Filter](https://doi.org/10.3390/app14188332)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/app14188332](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fapp14188332&color=2169aa&style=flat)](https://doi.org/10.3390/app14188332) [![Scopus 2025: 82nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=82nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100829268)
 
    <details>
    <summary>Full citation</summary>
@@ -371,8 +373,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-27. **[Next-Generation Diagnostics: The Impact of Synthetic Data Generation on the Detection of Breast Cancer from Ultrasound Imaging](https://doi.org/10.3390/math12182808)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/math12182808](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath12182808&color=2169aa&style=flat)](https://doi.org/10.3390/math12182808)
+27. ⭐⭐⭐ **[Next-Generation Diagnostics: The Impact of Synthetic Data Generation on the Detection of Breast Cancer from Ultrasound Imaging](https://doi.org/10.3390/math12182808)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/math12182808](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath12182808&color=2169aa&style=flat)](https://doi.org/10.3390/math12182808) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100830702)
 
    <details>
    <summary>Full citation</summary>
@@ -381,8 +383,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-28. **[Enhancing data security and privacy in energy applications: Integrating IoT and blockchain technologies](https://doi.org/10.1016/j.heliyon.2024.e38917)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1016/j.heliyon.2024.e38917](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.heliyon.2024.e38917&color=2169aa&style=flat)](https://doi.org/10.1016/j.heliyon.2024.e38917)
+28. ⭐⭐ **[Enhancing data security and privacy in energy applications: Integrating IoT and blockchain technologies](https://doi.org/10.1016/j.heliyon.2024.e38917)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1016/j.heliyon.2024.e38917](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.heliyon.2024.e38917&color=2169aa&style=flat)](https://doi.org/10.1016/j.heliyon.2024.e38917) [![Scopus 2025: 89th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=89th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100411756)
 
    <details>
    <summary>Full citation</summary>
@@ -391,8 +393,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-29. **[GAN-SkipNet: A Solution for Data Imbalance in Cardiac Arrhythmia Detection Using Electrocardiogram Signals from a Benchmark Dataset](https://doi.org/10.3390/math12172693)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/math12172693](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath12172693&color=2169aa&style=flat)](https://doi.org/10.3390/math12172693)
+29. ⭐⭐⭐ **[GAN-SkipNet: A Solution for Data Imbalance in Cardiac Arrhythmia Detection Using Electrocardiogram Signals from a Benchmark Dataset](https://doi.org/10.3390/math12172693)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/math12172693](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath12172693&color=2169aa&style=flat)](https://doi.org/10.3390/math12172693) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100830702)
 
    <details>
    <summary>Full citation</summary>
@@ -401,8 +403,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-30. **[HRIDM: Hybrid Residual/Inception-Based Deeper Model for Arrhythmia Detection from Large Sets of 12-Lead ECG Recordings](https://doi.org/10.3390/a17080364)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/a17080364](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fa17080364&color=2169aa&style=flat)](https://doi.org/10.3390/a17080364)
+30. ⭐⭐ **[HRIDM: Hybrid Residual/Inception-Based Deeper Model for Arrhythmia Detection from Large Sets of 12-Lead ECG Recordings](https://doi.org/10.3390/a17080364)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.3390/a17080364](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fa17080364&color=2169aa&style=flat)](https://doi.org/10.3390/a17080364) [![Scopus 2025: 84th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=84th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100199795)
 
    <details>
    <summary>Full citation</summary>
@@ -411,8 +413,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-31. **[Comparative analysis of machine learning and deep learning models for improved cancer detection: A comprehensive review of recent advancements in diagnostic techniques](https://doi.org/10.1016/j.eswa.2024.124838)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1016/j.eswa.2024.124838](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.eswa.2024.124838&color=2169aa&style=flat)](https://doi.org/10.1016/j.eswa.2024.124838)
+31. ⭐⭐⭐ **[Comparative analysis of machine learning and deep learning models for improved cancer detection: A comprehensive review of recent advancements in diagnostic techniques](https://doi.org/10.1016/j.eswa.2024.124838)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1016/j.eswa.2024.124838](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.eswa.2024.124838&color=2169aa&style=flat)](https://doi.org/10.1016/j.eswa.2024.124838) [![Scopus 2025: 97th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=97th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/24201)
 
    <details>
    <summary>Full citation</summary>
@@ -421,8 +423,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-32. **A depth analysis of recent innovations in non-invasive techniques using artificial intelligence approach for cancer prediction**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat)
+32. ⭐ **A depth analysis of recent innovations in non-invasive techniques using artificial intelligence approach for cancer prediction**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![Scopus 2025: 74th percentile | Q2](https://img.shields.io/static/v1?label=Scopus%202025&message=74th%20percentile%20%7C%20Q2&color=967019&style=flat)](https://www.scopus.com/sourceid/17979)
 
    <details>
    <summary>Full citation</summary>
@@ -431,8 +433,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-33. **[Two-Headed UNetEfficientNets for parallel execution of segmentation and classification of brain tumors: Incorporating postprocessing techniques with connected component labelling](https://doi.org/10.1007/s00432-024-05718-1)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1007/s00432-024-05718-1](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs00432-024-05718-1&color=2169aa&style=flat)](https://doi.org/10.1007/s00432-024-05718-1)
+33. ⭐⭐ **[Two-Headed UNetEfficientNets for parallel execution of segmentation and classification of brain tumors: Incorporating postprocessing techniques with connected component labelling](https://doi.org/10.1007/s00432-024-05718-1)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1007/s00432-024-05718-1](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs00432-024-05718-1&color=2169aa&style=flat)](https://doi.org/10.1007/s00432-024-05718-1) [![Scopus 2025: 77th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=77th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/29930)
 
    <details>
    <summary>Full citation</summary>
@@ -441,8 +443,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-34. **[Advancements in traditional machine learning techniques for detection and diagnosis of fatal cancer types: Comprehensive review of biomedical imaging datasets](https://doi.org/10.1016/j.measurement.2023.114059)**  
-   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1016/j.measurement.2023.114059](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.measurement.2023.114059&color=2169aa&style=flat)](https://doi.org/10.1016/j.measurement.2023.114059)
+34. ⭐⭐⭐ **[Advancements in traditional machine learning techniques for detection and diagnosis of fatal cancer types: Comprehensive review of biomedical imaging datasets](https://doi.org/10.1016/j.measurement.2023.114059)**  
+   ![Year: 2024](https://img.shields.io/static/v1?label=Year&message=2024&color=755099&style=flat) [![DOI: 10.1016/j.measurement.2023.114059](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.measurement.2023.114059&color=2169aa&style=flat)](https://doi.org/10.1016/j.measurement.2023.114059) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/15424)
 
    <details>
    <summary>Full citation</summary>
@@ -451,8 +453,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-35. **[Analysis of Colorectal and Gastric Cancer Classification: A Mathematical Insight Utilizing Traditional Machine Learning Classifiers](https://doi.org/10.3390/math11244937)**  
-   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.3390/math11244937](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath11244937&color=2169aa&style=flat)](https://doi.org/10.3390/math11244937)
+35. ⭐⭐⭐ **[Analysis of Colorectal and Gastric Cancer Classification: A Mathematical Insight Utilizing Traditional Machine Learning Classifiers](https://doi.org/10.3390/math11244937)**  
+   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.3390/math11244937](https://img.shields.io/static/v1?label=DOI&message=10.3390%2Fmath11244937&color=2169aa&style=flat)](https://doi.org/10.3390/math11244937) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100830702)
 
    <details>
    <summary>Full citation</summary>
@@ -461,8 +463,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-36. **[A comprehensive analysis of recent advancements in cancer detection using machine learning and deep learning models for improved diagnostics](https://doi.org/10.1007/s00432-023-05216-w)**  
-   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.1007/s00432-023-05216-w](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs00432-023-05216-w&color=2169aa&style=flat)](https://doi.org/10.1007/s00432-023-05216-w)
+36. ⭐⭐ **[A comprehensive analysis of recent advancements in cancer detection using machine learning and deep learning models for improved diagnostics](https://doi.org/10.1007/s00432-023-05216-w)**  
+   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.1007/s00432-023-05216-w](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs00432-023-05216-w&color=2169aa&style=flat)](https://doi.org/10.1007/s00432-023-05216-w) [![Scopus 2025: 77th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=77th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/29930)
 
    <details>
    <summary>Full citation</summary>
@@ -471,8 +473,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-37. **[Cancer detection and segmentation using machine learning and deep learning techniques: a review](https://doi.org/10.1007/s11042-023-16520-5)**  
-   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.1007/s11042-023-16520-5](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11042-023-16520-5&color=2169aa&style=flat)](https://doi.org/10.1007/s11042-023-16520-5)
+37. ⭐⭐⭐ **[Cancer detection and segmentation using machine learning and deep learning techniques: a review](https://doi.org/10.1007/s11042-023-16520-5)**  
+   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.1007/s11042-023-16520-5](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11042-023-16520-5&color=2169aa&style=flat)](https://doi.org/10.1007/s11042-023-16520-5) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/25627)
 
    <details>
    <summary>Full citation</summary>
@@ -481,8 +483,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-38. **[Use of Internet of Things in the context of execution of smart city applications: a review](https://doi.org/10.1007/s43926-023-00037-2)**  
-   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.1007/s43926-023-00037-2](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs43926-023-00037-2&color=2169aa&style=flat)](https://doi.org/10.1007/s43926-023-00037-2)
+38. ⭐⭐ **[Use of Internet of Things in the context of execution of smart city applications: a review](https://doi.org/10.1007/s43926-023-00037-2)**  
+   ![Year: 2023](https://img.shields.io/static/v1?label=Year&message=2023&color=755099&style=flat) [![DOI: 10.1007/s43926-023-00037-2](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs43926-023-00037-2&color=2169aa&style=flat)](https://doi.org/10.1007/s43926-023-00037-2) [![Scopus 2025: 79th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=79th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21101212766)
 
    <details>
    <summary>Full citation</summary>
@@ -491,8 +493,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-39. **[The prediction of cardiac abnormality and enhancement in minority class accuracy from imbalanced ECG signals using modified deep neural network models](https://doi.org/10.1016/j.compbiomed.2022.106142)**  
-   ![Year: 2022](https://img.shields.io/static/v1?label=Year&message=2022&color=755099&style=flat) [![DOI: 10.1016/j.compbiomed.2022.106142](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.compbiomed.2022.106142&color=2169aa&style=flat)](https://doi.org/10.1016/j.compbiomed.2022.106142)
+39. ⭐⭐⭐ **[The prediction of cardiac abnormality and enhancement in minority class accuracy from imbalanced ECG signals using modified deep neural network models](https://doi.org/10.1016/j.compbiomed.2022.106142)**  
+   ![Year: 2022](https://img.shields.io/static/v1?label=Year&message=2022&color=755099&style=flat) [![DOI: 10.1016/j.compbiomed.2022.106142](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.compbiomed.2022.106142&color=2169aa&style=flat)](https://doi.org/10.1016/j.compbiomed.2022.106142) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/17957)
 
    <details>
    <summary>Full citation</summary>
@@ -501,8 +503,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-40. **[Hybrid CNN-LSTM deep learning model and ensemble technique for automatic detection of myocardial infarction using big ECG data](https://doi.org/10.1007/s10489-021-02696-6)**  
-   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1007/s10489-021-02696-6](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs10489-021-02696-6&color=2169aa&style=flat)](https://doi.org/10.1007/s10489-021-02696-6)
+40. ⭐⭐ **[Hybrid CNN-LSTM deep learning model and ensemble technique for automatic detection of myocardial infarction using big ECG data](https://doi.org/10.1007/s10489-021-02696-6)**  
+   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1007/s10489-021-02696-6](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs10489-021-02696-6&color=2169aa&style=flat)](https://doi.org/10.1007/s10489-021-02696-6) [![Scopus 2025: 80th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=80th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/23674)
 
    <details>
    <summary>Full citation</summary>
@@ -511,8 +513,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-41. **[2D MRI image analysis and brain tumor detection using deep learning CNN model LeU-Net](https://doi.org/10.1007/s11042-021-11504-9)**  
-   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1007/s11042-021-11504-9](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11042-021-11504-9&color=2169aa&style=flat)](https://doi.org/10.1007/s11042-021-11504-9)
+41. ⭐⭐⭐ **[2D MRI image analysis and brain tumor detection using deep learning CNN model LeU-Net](https://doi.org/10.1007/s11042-021-11504-9)**  
+   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1007/s11042-021-11504-9](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs11042-021-11504-9&color=2169aa&style=flat)](https://doi.org/10.1007/s11042-021-11504-9) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/25627)
 
    <details>
    <summary>Full citation</summary>
@@ -521,8 +523,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-42. **[Automatic and accurate abnormality detection from brain MR images using a novel hybrid UnetResNext-50 deep CNN model](https://doi.org/10.1016/j.bspc.2021.102477)**  
-   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1016/j.bspc.2021.102477](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.bspc.2021.102477&color=2169aa&style=flat)](https://doi.org/10.1016/j.bspc.2021.102477)
+42. ⭐⭐⭐ **[Automatic and accurate abnormality detection from brain MR images using a novel hybrid UnetResNext-50 deep CNN model](https://doi.org/10.1016/j.bspc.2021.102477)**  
+   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1016/j.bspc.2021.102477](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.bspc.2021.102477&color=2169aa&style=flat)](https://doi.org/10.1016/j.bspc.2021.102477) [![Scopus 2025: 92nd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=92nd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/4700152237)
 
    <details>
    <summary>Full citation</summary>
@@ -531,8 +533,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-43. **[Hybrid Adaptive Algorithm based on Wavelet Transform and Independent Component Analysis for Denoising of MRI Images](https://doi.org/10.1016/j.measurement.2019.05.028)**  
-   ![Year: 2019](https://img.shields.io/static/v1?label=Year&message=2019&color=755099&style=flat) [![DOI: 10.1016/j.measurement.2019.05.028](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.measurement.2019.05.028&color=2169aa&style=flat)](https://doi.org/10.1016/j.measurement.2019.05.028)
+43. ⭐⭐⭐ **[Hybrid Adaptive Algorithm based on Wavelet Transform and Independent Component Analysis for Denoising of MRI Images](https://doi.org/10.1016/j.measurement.2019.05.028)**  
+   ![Year: 2019](https://img.shields.io/static/v1?label=Year&message=2019&color=755099&style=flat) [![DOI: 10.1016/j.measurement.2019.05.028](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.measurement.2019.05.028&color=2169aa&style=flat)](https://doi.org/10.1016/j.measurement.2019.05.028) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/15424)
 
    <details>
    <summary>Full citation</summary>
@@ -541,8 +543,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-44. **[A unique feature extraction using MRDWT for automatic classification of abnormal heartbeat from ECG big data with Multilayered Probabilistic Neural Network classifier](https://doi.org/10.1016/j.asoc.2018.04.005)**  
-   ![Year: 2018](https://img.shields.io/static/v1?label=Year&message=2018&color=755099&style=flat) [![DOI: 10.1016/j.asoc.2018.04.005](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.asoc.2018.04.005&color=2169aa&style=flat)](https://doi.org/10.1016/j.asoc.2018.04.005)
+44. ⭐⭐⭐ **[A unique feature extraction using MRDWT for automatic classification of abnormal heartbeat from ECG big data with Multilayered Probabilistic Neural Network classifier](https://doi.org/10.1016/j.asoc.2018.04.005)**  
+   ![Year: 2018](https://img.shields.io/static/v1?label=Year&message=2018&color=755099&style=flat) [![DOI: 10.1016/j.asoc.2018.04.005](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.asoc.2018.04.005&color=2169aa&style=flat)](https://doi.org/10.1016/j.asoc.2018.04.005) [![Scopus 2025: 91st percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=91st%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/18136)
 
    <details>
    <summary>Full citation</summary>
@@ -551,8 +553,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-45. **[A Novel Adaptive Feature Extraction for Detection of Cardiac Arrhythmias Using Hybrid Technique MRDWT & MPNN Classifier from ECG Big Data](https://doi.org/10.1016/j.bdr.2018.02.003)**  
-   ![Year: 2018](https://img.shields.io/static/v1?label=Year&message=2018&color=755099&style=flat) [![DOI: 10.1016/j.bdr.2018.02.003](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.bdr.2018.02.003&color=2169aa&style=flat)](https://doi.org/10.1016/j.bdr.2018.02.003)
+45. ⭐⭐ **[A Novel Adaptive Feature Extraction for Detection of Cardiac Arrhythmias Using Hybrid Technique MRDWT & MPNN Classifier from ECG Big Data](https://doi.org/10.1016/j.bdr.2018.02.003)**  
+   ![Year: 2018](https://img.shields.io/static/v1?label=Year&message=2018&color=755099&style=flat) [![DOI: 10.1016/j.bdr.2018.02.003](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.bdr.2018.02.003&color=2169aa&style=flat)](https://doi.org/10.1016/j.bdr.2018.02.003) [![Scopus 2025: 87th percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=87th%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21100356018)
 
    <details>
    <summary>Full citation</summary>
@@ -561,8 +563,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-46. **[ECG signal processing for abnormalities detection using multi-resolution wavelet trans- form and Artiﬁcial Neural Network Classiﬁer](https://doi.org/10.1016/j.measurement.2013.05.021)**  
-   ![Year: 2013](https://img.shields.io/static/v1?label=Year&message=2013&color=755099&style=flat) [![DOI: 10.1016/j.measurement.2013.05.021](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.measurement.2013.05.021&color=2169aa&style=flat)](https://doi.org/10.1016/j.measurement.2013.05.021)
+46. ⭐⭐⭐ **[ECG signal processing for abnormalities detection using multi-resolution wavelet trans- form and Artiﬁcial Neural Network Classiﬁer](https://doi.org/10.1016/j.measurement.2013.05.021)**  
+   ![Year: 2013](https://img.shields.io/static/v1?label=Year&message=2013&color=755099&style=flat) [![DOI: 10.1016/j.measurement.2013.05.021](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.measurement.2013.05.021&color=2169aa&style=flat)](https://doi.org/10.1016/j.measurement.2013.05.021) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/15424)
 
    <details>
    <summary>Full citation</summary>
@@ -572,7 +574,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
    </details>
 
 47. **[Cloud based Resource Scheduling Methodology for Data-Intensive Smart Cities and Industrial Applications](https://doi.org/10.12694/scpe.v22i2.1899)**  
-   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.12694/scpe.v22i2.1899](https://img.shields.io/static/v1?label=DOI&message=10.12694%2Fscpe.v22i2.1899&color=2169aa&style=flat)](https://doi.org/10.12694/scpe.v22i2.1899)
+   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.12694/scpe.v22i2.1899](https://img.shields.io/static/v1?label=DOI&message=10.12694%2Fscpe.v22i2.1899&color=2169aa&style=flat)](https://doi.org/10.12694/scpe.v22i2.1899) [![Scopus 2025: No 2025 metric](https://img.shields.io/static/v1?label=Scopus%202025&message=No%202025%20metric&color=967019&style=flat)](https://www.scopus.com/sourceid/21100208072)
 
    <details>
    <summary>Full citation</summary>
@@ -581,8 +583,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-48. **[A flight control method for unmanned aerial vehicles based on vibration suppression](https://doi.org/10.1049/cim2.12027)**  
-   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1049/cim2.12027](https://img.shields.io/static/v1?label=DOI&message=10.1049%2Fcim2.12027&color=2169aa&style=flat)](https://doi.org/10.1049/cim2.12027)
+48. ⭐ **[A flight control method for unmanned aerial vehicles based on vibration suppression](https://doi.org/10.1049/cim2.12027)**  
+   ![Year: 2021](https://img.shields.io/static/v1?label=Year&message=2021&color=755099&style=flat) [![DOI: 10.1049/cim2.12027](https://img.shields.io/static/v1?label=DOI&message=10.1049%2Fcim2.12027&color=2169aa&style=flat)](https://doi.org/10.1049/cim2.12027) [![Scopus 2025: 72nd percentile | Q2](https://img.shields.io/static/v1?label=Scopus%202025&message=72nd%20percentile%20%7C%20Q2&color=967019&style=flat)](https://www.scopus.com/sourceid/21101041933)
 
    <details>
    <summary>Full citation</summary>
@@ -591,8 +593,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-49. **[R-Peak Detection using Daubechies Wavelet and ECG Signal Classification using Radial Basis Function Neural Network](https://doi.org/10.1007/s40031-014-0073-4)**  
-   ![Year: 2014](https://img.shields.io/static/v1?label=Year&message=2014&color=755099&style=flat) [![DOI: 10.1007/s40031-014-0073-4](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs40031-014-0073-4&color=2169aa&style=flat)](https://doi.org/10.1007/s40031-014-0073-4)
+49. ⭐ **[R-Peak Detection using Daubechies Wavelet and ECG Signal Classification using Radial Basis Function Neural Network](https://doi.org/10.1007/s40031-014-0073-4)**  
+   ![Year: 2014](https://img.shields.io/static/v1?label=Year&message=2014&color=755099&style=flat) [![DOI: 10.1007/s40031-014-0073-4](https://img.shields.io/static/v1?label=DOI&message=10.1007%2Fs40031-014-0073-4&color=2169aa&style=flat)](https://doi.org/10.1007/s40031-014-0073-4) [![Scopus 2025: 62nd percentile | Q2](https://img.shields.io/static/v1?label=Scopus%202025&message=62nd%20percentile%20%7C%20Q2&color=967019&style=flat)](https://www.scopus.com/sourceid/21100831436)
 
    <details>
    <summary>Full citation</summary>
@@ -601,8 +603,8 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
 
    </details>
 
-50. **[Detection of brain abnormality by a novel Lu-Net deep neural CNN model from MR images](https://doi.org/10.1016/j.mlwa.2020.100004)**  
-   ![Year: 2020](https://img.shields.io/static/v1?label=Year&message=2020&color=755099&style=flat) [![DOI: 10.1016/j.mlwa.2020.100004](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.mlwa.2020.100004&color=2169aa&style=flat)](https://doi.org/10.1016/j.mlwa.2020.100004)
+50. ⭐⭐⭐ **[Detection of brain abnormality by a novel Lu-Net deep neural CNN model from MR images](https://doi.org/10.1016/j.mlwa.2020.100004)**  
+   ![Year: 2020](https://img.shields.io/static/v1?label=Year&message=2020&color=755099&style=flat) [![DOI: 10.1016/j.mlwa.2020.100004](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.mlwa.2020.100004&color=2169aa&style=flat)](https://doi.org/10.1016/j.mlwa.2020.100004) [![Scopus 2025: 93rd percentile | Q1](https://img.shields.io/static/v1?label=Scopus%202025&message=93rd%20percentile%20%7C%20Q1&color=967019&style=flat)](https://www.scopus.com/sourceid/21101162637)
 
    <details>
    <summary>Full citation</summary>
@@ -622,7 +624,7 @@ Vinayaka Mission’s Kirupananda Variar Engineering College, Salem, Tamil Nadu, 
    </details>
 
 52. **Design of Smart Solar Inverter System**  
-   ![Year: 2017](https://img.shields.io/static/v1?label=Year&message=2017&color=755099&style=flat)
+   ![Year: 2017](https://img.shields.io/static/v1?label=Year&message=2017&color=755099&style=flat) [![Scopus 2025: No 2025 metric](https://img.shields.io/static/v1?label=Scopus%202025&message=No%202025%20metric&color=967019&style=flat)](https://www.scopus.com/sourceid/21100899502)
 
    <details>
    <summary>Full citation</summary>
